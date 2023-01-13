@@ -1,0 +1,1 @@
+/Users/qWave/Desktop/WorkSpace/cscWorkspace/scratchpad/rustLang/rustLang_practice/variables/target/debug/variables: /Users/qWave/Desktop/WorkSpace/cscWorkspace/scratchpad/rustLang/rustLang_practice/variables/src/main.rs

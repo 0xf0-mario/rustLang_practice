@@ -1,0 +1,1 @@
+/Users/qWave/Desktop/WorkSpace/cscWorkspace/scratchpad/rustLang/rustLang_practice/hello_cargo/target/debug/hello_cargo: /Users/qWave/Desktop/WorkSpace/cscWorkspace/scratchpad/rustLang/rustLang_practice/hello_cargo/src/main.rs
